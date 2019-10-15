@@ -17,8 +17,6 @@ namespace UnitTestProject1
             Assert.IsNotNull(acc);
             Assert.IsInstanceOfType(acc, typeof(Account));
             Assert.AreEqual(2000000, acc.Balance());
-            Assert
-
         }
     }
 }
