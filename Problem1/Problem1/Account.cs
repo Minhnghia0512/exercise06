@@ -15,11 +15,11 @@ namespace Problem1
         }
         public void Deposit(int amount)
         {
-            MONEY -= amount;
+            MONEY += amount;
         }
         public void Withdraw(int amount)
         {
-            MONEY += amount;
+            MONEY -= amount;
         }
         public int Balance()
         {
