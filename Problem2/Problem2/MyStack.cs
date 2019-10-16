@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace Problem2
 {
-    class Program
+    public class MyStack
     {
-        static void Main(string[] args)
+       public MyStack (int[] item )
         {
+            int[] Stack = new int[Stack];
         }
+
     }
 
 }
